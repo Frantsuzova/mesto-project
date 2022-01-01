@@ -40,7 +40,7 @@ const api = new Api({
   // объект для работы с api сервера
   baseUrl: "https://nomoreparties.co/v1/plus-cohort-2",
   headers: {
-    authorization: "a13ed7cf-8f31-4ce8-b059-6e62fe3ca7e5",
+    authorization: "077bc8dc-0b44-4a3f-8309-cb8bcf80fcc6",
     "Content-Type": "application/json",
   },
 });
