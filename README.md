@@ -17,6 +17,5 @@
 * Реализация отзывчивого дизайна (использован подход desktop-first)
 
 ## Ссылка на проект:
-
-https://yuliazherebtsova.github.io/mesto-project/
+https://frantsuzova.github.io/mesto-project/
 
