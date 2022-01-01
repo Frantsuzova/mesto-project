@@ -11,9 +11,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yuliazherebtsova/mesto-project.git"
+    "url": ""
   },
-  "author": "Yulia Zherebtsova",
+  "author": "",
   "license": "",
   "devDependencies": {
     "@babel/core": "^7.15.5",
